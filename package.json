@@ -1,0 +1,26 @@
+{
+  "name": "spanishhomemade",
+  "version": "1.0.0",
+  "description": "Spanish homemade website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeantroiani/spanishhomemade.git"
+  },
+  "keywords": [
+    "Spanish",
+    "Food"
+  ],
+  "author": "jeantroiani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeantroiani/spanishhomemade/issues"
+  },
+  "homepage": "https://github.com/jeantroiani/spanishhomemade#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
